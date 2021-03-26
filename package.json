@@ -1,0 +1,20 @@
+{
+  "name": "module20",
+  "version": "1.0.0",
+  "description": "Module20-homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w --source-map true Module20.scss Module20.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaGata/SF-Drive_homework.git"
+  },
+  "author": "Zubova Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaGata/SF-Drive_homework/issues"
+  },
+  "homepage": "https://github.com/OlgaGata/SF-Drive_homework#readme"
+}
